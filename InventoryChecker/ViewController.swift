@@ -12,6 +12,8 @@ class ViewController: UIViewController {
 
     @IBOutlet weak var myLabel: UILabel!
     
+    @IBOutlet var startButton: UIView!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
@@ -22,6 +24,11 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
+    @IBAction func startButtonTapped(_ sender: Any) {
+        
+        print("Hello, World!")
+        
+    }
 
 }
 
