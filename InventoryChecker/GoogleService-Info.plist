@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>661953400510-3rqo73pd1u7sd5uu0hq97emvivs712e4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.661953400510-3rqo73pd1u7sd5uu0hq97emvivs712e4</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCsKoSXrqq9nSAJHmdZvkioRv1c05E3YJg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>661953400510</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mirai-apps.InventoryChecker</string>
+	<key>PROJECT_ID</key>
+	<string>inventorychecker-23e1b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>inventorychecker-23e1b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:661953400510:ios:5fa5f968ff9a323a</string>
+	<key>DATABASE_URL</key>
+	<string>https://inventorychecker-23e1b.firebaseio.com</string>
+</dict>
+</plist>
